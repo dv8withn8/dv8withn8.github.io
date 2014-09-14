@@ -1,0 +1,12 @@
+# Site settings
+title: The Portfolio of UI/UX Designer, Nathan Peters
+email: n8peters@gmailcom
+description: > # this means to ignore newlines until "baseurl:"
+  The Portfolio of UI/UX Designer, Nathan Peters
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://dv8withn8.github.io" # the base hostname & protocol for your site
+twitter_username: dv8withn8
+github_username:  dv8withn8
+
+# Build settings
+markdown: redcarpet

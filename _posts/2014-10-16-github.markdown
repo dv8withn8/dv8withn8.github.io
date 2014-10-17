@@ -6,8 +6,6 @@ summary:    Building things is easy. Filling them with stuff is hard.
 categories: portfolio
 ---
 
-##Portfolio Update
-
 <blockquote>
   <p>
     A house is just a place to keep your stuff while you go out and get more stuff
@@ -15,7 +13,7 @@ categories: portfolio
   <footer><cite title="George Carlin">George Carlin</cite></footer>
 </blockquote>
 
-The most difficult part of putting together a porfolio is compiling and documenting all the work you've done in a given period of time. The fun part is building it. 
+The most difficult part of putting together a porfolio is compiling and documenting all the work you've done in a given period of time. The fun part is building it.
 
 Recently I've discovered the magic of GitHub Pages, powered by Jekyll. Is there a better way to do a portfolio? Dig into <a href="http://github.com/dv8withn8">my repo</a> to view this site's source code. I only wish I could share the code written for private repos.
 

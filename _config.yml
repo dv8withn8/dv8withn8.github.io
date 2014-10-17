@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://dv8withn8.github.io/"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-54753296-1
 
 # Optional features
 animated:           true

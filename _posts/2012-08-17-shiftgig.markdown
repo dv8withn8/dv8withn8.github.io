@@ -9,7 +9,7 @@ categories: portfolio
 ##From Startup to Corporate
 I've been working with Shiftgig for two years now. In that time I have helped evolve the original site into a mobile-friendly, fully-responsive experience. 
 
-I've helped evolve the application process, improved job-posting tools for managers, modernized user profiles and developed several marketing partnership experiences with industry brands including New Castle, Smirnoff and Hangar 1.
+I've helped streamline the application process, improved job-posting tools for managers, created effective user profiles and developed several marketing partnership experiences with industry brands including New Castle, Smirnoff and Hangar 1.
 
 Users put the results in down-to-earth terms
 
@@ -20,7 +20,14 @@ Users put the results in down-to-earth terms
   <footer><cite title="Chris M, Washington DC">Chris M, Washington, DC</cite></footer>
 </blockquote>
 
-Below are interfaces, some never made it beyond the concept phase, some are live right now. Together they tell a story of how the brand evolved and the paths we explored to make a product that met the needs of our users and the business.
+<blockquote>
+  <p>
+    I really, really like the site. It seems really simple and easy to navigate. I have already received my first job invitation with-in the first two days of signing up. So far, so good.
+  </p>
+  <footer><cite title="Tasha K, Atlanta">Tasha K, Atlanta</cite></footer>
+</blockquote>
+
+Below are selected interfaces, some never made it beyond the concept phase, some are live right now. Together they tell a story of how the brand evolved and the paths we explored to make a product that met the needs of our users and grow the business.
 
 ![iOS App]({{prepend: site.url }}/images/app-landing.jpg)
 ![Newsfeed]({{prepend: site.url }}/images/newsfeed.jpg)

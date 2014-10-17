@@ -18,7 +18,7 @@ For Shiftgig, I took inspiration from trends in the industry and the people who 
 
 For the Bullpen side, I took a different approach. Bullpen is a service focused on helping companies fill positions on a temporary basis---at short notice and on-demand. Businesses that could utilize this service range from hospitality, to retail and light industrial. So I took a much more classic and utilitarian approach that spoke to the general concept of "industry."
 
-Together the two were meant contrast but compliment eachother to create a diverse but unified product offering.
+Together the two were meant to contrast but compliment eachother and to create a diverse but unified product offering.
 
 ![New Shiftgig]({{prepend: site.url }}/images/shiftscript-logo.png)
 ![New Bullpen]({{prepend: site.url }}/images/bullpen-new.png)

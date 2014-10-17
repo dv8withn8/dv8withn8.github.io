@@ -1,0 +1,26 @@
+---
+layout:     post
+title:      Shiftgig Identity Exploration
+date:       2014-05-01 18:30:00
+summary:    Every brand needs to change to reflect the attitudes and tastes of its customer.
+categories: portfolio
+---
+
+##So Long to Stoicism
+As I learned more about our customers, I became aware of the diversity and vibrancy of the people we serve. It slowly became apparant that the direction we were headed was that of a coporate behemoth. What a downer. All the signs were there, blue everywhere, boring lifeless copy and a stoic logo that was the antethis of the energy our audience embodied.
+
+###The Old Logo(s)
+![Old Shiftgig]({{prepend: site.url }}/images/oldlogo.png)
+![Old Bullpen]({{prepend: site.url }}/images/oldbullpen.png)
+
+###The New Hotness
+For Shiftgig, I took inspiration from trends in the industry and the people who work in it, seeking something that was organic, that had life. But tempered with our roots as a technology solution to tradtitional problems and the structure that comes with that tech.
+
+For the Bullpen side, I took a different approach. Bullpen is a service focused on helping companies fill positions on a temporary basis---at short notice and on-demand. Businesses that could utilize this service range from hospitality, to retail and light industrial. So I took a much more classic and utilitarian approach that spoke to the general concept of "industry."
+
+Together the two were meant contrast but compliment eachother to create a diverse but unified product offering.
+
+![New Shiftgig]({{prepend: site.url }}/images/shiftscript-logo.png)
+![New Bullpen]({{prepend: site.url }}/images/bullpen-new.png)
+![Shiftgig Bullpen]({{prepend: site.url }}/images/shiftgig-bullpen.png)
+![Bullpen Ad]({{prepend: site.url }}/images/bullpenad.png)

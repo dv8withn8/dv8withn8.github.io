@@ -1,0 +1,31 @@
+---
+layout:     post
+title:      Shiftgig
+date:       2012-08-17 18:30:00
+summary:    From scrappy startup to a funded, revenue generating company.
+categories: portfolio
+---
+
+##From Startup to Corporate
+I've been working with Shiftgig for two years now. In that time I have helped evolve the original site into a mobile-friendly, fully-responsive experience. 
+
+I've helped evolve the application process, improved job-posting tools for managers, modernized user profiles and developed several marketing partnership experiences with industry brands including New Castle, Smirnoff and Hangar 1.
+
+Users put the results in down-to-earth terms
+
+<blockquote>
+  <p>
+    I think Shiftgig is easy to use. Once you add all your information in, it's really easy to apply to a bunch of jobs. I think it's cool; I like it.
+  </p>
+  <footer><cite title="Chris M, Washington DC">Chris M, Washington, DC</cite></footer>
+</blockquote>
+
+Below are interfaces, some never made it beyond the concept phase, some are live right now. Together they tell a story of how the brand evolved and the paths we explored to make a product that met the needs of our users and the business.
+
+![iOS App]({{prepend: site.url }}/images/app-landing.jpg)
+![Newsfeed]({{prepend: site.url }}/images/newsfeed.jpg)
+![Endorsements]({{prepend: site.url }}/images/endorsement-info.jpg)
+![Endorsements-Mobile]({{prepend: site.url }}/images/endorsement-info-mobile.gif)
+![Job Pages]({{prepend: site.url }}/images/job-details.jpg)
+![Profiles]({{prepend: site.url }}/images/profile3b-collapsed.jpg)
+![Homepage]({{prepend: site.url }}/images/homepage3.jpg)

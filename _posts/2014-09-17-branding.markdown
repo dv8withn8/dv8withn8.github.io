@@ -1,0 +1,22 @@
+---
+layout:     post
+title:      Shiftgig Code & Branding Standards
+date:       2014-09-20 18:30:00
+summary:    Part custom front-end framework, part reference.
+categories: portfolio
+---
+
+##One Doc to Rule Them All
+One of my passion projects at Shiftgig was to finally take the time to put together a custom, built from the ground up framework we can use on all of our projects. The move away from Drupal gave us this opportunity.
+
+No longer would we need the fluff and cruft provided by Bootstrap or would we have to fight a behemoth of a content management system. We can do this ourselves and we can do it better because it's built to meet our needs.
+
+Enter SASS, extended by Bourbon, our saviors. Using a CSS pre-processor is brand new to the front-end devs at Shiftgig and despite the mystery and perceived complexity behind them, SASS has  proved quite easy to learn and now I can't live without it.
+
+Now we have rules in place for new developers to get up to speed quickly and the entire company use as a reference from logos to brand colors, all in one place.
+
+The document is a work in progress, done in spare time during our aggressive sprint cycles and you can view it below.
+
+<a href="http://design.shiftgig.com">design.shiftgig.com
+![Brand Guide]({{prepend: site.url }}/images/thebrand.png)
+</a>

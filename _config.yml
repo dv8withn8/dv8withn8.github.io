@@ -18,11 +18,7 @@ show_post_footers:  false
 show_social_icons: false
 github_username: dv8withn8
 twitter_username: dv8withn8
-google_plus_id:
 linkedin_username: n8peters
-bitcoin_url:
-paypal_url:
-flattr_button:
 
 # Build settings
 markdown:     kramdown

@@ -6,7 +6,7 @@ summary:    Conference site for UIC's Hazarous Material Management Program
 ---
 
 ##CUHMMC, A Really Long Acronym
-_Work in Progress_ I recently began a project for UIC's Hazardous Materials Program, promoting an annual conference that they will host in 2015. Using a rough logo idea they provided, I refined it and played off of it for the website whice is moving in development on WordPress this week.
+_Work in Progress_ I recently began a project for UIC's Hazardous Materials Program, promoting an annual conference that they will host in 2015. Using a rough logo idea they provided, I refined it and played off of it for the website which is moving in development on WordPress this week.
 
 ![Logo]({{prepend: site.url }}/images/uic-logo.png)
 ![Homepage]({{prepend: site.url }}/images/uic-homepage.png)

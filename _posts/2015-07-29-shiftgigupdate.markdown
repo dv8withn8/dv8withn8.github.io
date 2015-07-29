@@ -5,7 +5,15 @@ date:       2015-03-30 18:00:00
 summary:    In a startup, change is a tsunami
 ---
 
-##Shiftgig, The Pivot
+<blockquote>
+<h3 style="margin-top:0;">tsu·na·mi</h3>
+<p>(t)so͞oˈnämē<br/>
+<em>noun</em></p>
+<ul>
+<li>a long high sea wave caused by an earthquake, submarine landslide, or other disturbance.</li>
+<li><strong>an arrival or occurrence of something in overwhelming quantities or amounts.</strong></li>
+</ul>
+</blockquote>
 
 I've been with Shiftgig for 3 years. In that time, I've watched this startup grow from a dozen people crammed into 200sq feet in an incubator to a company over 100 strong with offices across the country. Wow. People keep telling me this isn't what happens at startups.
 

@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Shiftgig, The Pivot
-date:       2015-06-28 18:00:00
+date:       2015-06-01 18:00:00
 summary:    In a startup, change is a tsunami
 ---
 
@@ -21,6 +21,6 @@ We started out as a job board married to a profile and networking system for the
 
 Then it all changed.
 
-We had just relaunched our job search tools. A new framework, exciting location based & interactive searches that user tests showed people were digging. Then we quietly pushed all that to the background. The brand was refreshed and new homepage was launched declaring our new primary business model. Check it out.
+We had just relaunched our job search tools. A new framework, exciting location based & interactive searches that user tests showed people were digging. Then we quietly pushed all that to the background. The brand is being refreshed and new homepage is forth-coming.
 
-http://www.shiftgig.com
+<a href="http://www.shiftgig.com">www.shiftgig.com</a>

@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Shiftgig, The Pivot
-date:       2015-03-30 18:00:00
+date:       2015-06-28 18:00:00
 summary:    In a startup, change is a tsunami
 ---
 

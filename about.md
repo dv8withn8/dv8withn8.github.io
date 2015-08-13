@@ -20,8 +20,7 @@ If you'd like to see a history of employment, edudation and accolades---please t
 
 ####Tools in my Workflow
 * Pen & Graph Paper
-* Balsamic
-* InVision (quick prototyping)
+* InVision
 * Sketch
 * Photoshop
 * Illustrator

@@ -24,6 +24,3 @@ Shiftgig was (is) originally built on Drupal 7. This worked for a time but as bu
 ![Job Search]({{prepend: site.url }}/images/Search.png)
 ![Job Details]({{prepend: site.url }}/images/JobDetailView.png)
 ![Job Page]({{prepend: site.url }}/images/JobDetailPage.png)
-![Endorsements-Mobile]({{prepend: site.url }}/images/Search-Mobile.png)
-![Job Pages]({{prepend: site.url }}/images/Search-MobileMap.png)
-![Profiles]({{prepend: site.url }}/images/Search-MobileFilters.png)

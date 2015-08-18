@@ -12,7 +12,7 @@ We ended up with something fresh, unique and ultimately better reflects who we a
 
 <ul>
 	<li>_Live Site:_ <a href="http://www.shiftgig.com">www.shiftgig.com</a></li>
-	<li>![Artifact: Design Persona]({{prepend: site.url }}/files/DesignPersona.pdf)</li>
+	<li>Artifact: <a href="{{prepend: site.url }}/files/DesignPersona.pdf)">Design Persona</li>
 	<li>Artifact: <a href="https://invis.io/CM3WTAB45">Designs</a></li>
 
 <ul>

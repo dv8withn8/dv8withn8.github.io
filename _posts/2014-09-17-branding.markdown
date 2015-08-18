@@ -18,5 +18,6 @@ Now we have rules in place for new developers to get up to speed quickly and the
 The document is a work in progress, done in spare time during our aggressive sprint cycles and you can view it below.
 
 <a href="http://design.shiftgig.com">design.shiftgig.com
-![Brand Guide]({{prepend: site.url }}/images/thebrand.png)
+![2015 Brand Guide]({{prepend: site.url }}/images/thebrand.png)
+![First Brand Guide (circa 2012)]({{prepend: site.url }}/files/Shiftgig-StyleGuide_v1.pdf)</li>
 </a>

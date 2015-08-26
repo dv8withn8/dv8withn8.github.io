@@ -12,6 +12,6 @@ We ended up with something fresh, unique and ultimately better reflects who we a
 
 * __Live Site:__ <a href="http://www.shiftgig.com">www.shiftgig.com</a>
 * Artifact: <a href="{{prepend: site.url }}/files/DesignPersona.pdf">Design Persona, Initial Draft
-* Artifact: ![Design]({{prepend: site.url }}/images/shiftgig2015.png)
+* Artifact: High Fidelity Design ![Design]({{prepend: site.url }}/images/shiftgig2015.png)
 
-Have you seen it? I would love to get your thoughts and answer questions. <a href="http://www.twitter.com/dv8withn8">@dv8withn8</a>
+I would love to get your thoughts and answer questions. <a href="http://www.twitter.com/dv8withn8">@dv8withn8</a>

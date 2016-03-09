@@ -2,7 +2,7 @@
 layout:     post
 title:      Slalom
 date:       2016-03-08 18:00:00
-summary:    Episode IV: A New Hope
+summary:    Episode IV - A New Hope
 ---
 
 Back in September I began the 4th chapter of my career. Now as a UX Consultant for <a href="http://www.slalom.com">Slalom</a>. It's quite a different beast than my 3 year tenure at Shiftgig. 
